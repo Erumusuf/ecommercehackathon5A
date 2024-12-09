@@ -1,6 +1,5 @@
 import Image from "next/image"
 import ShopImage from "@/Pictures/shophero.png"
-import { IoIosArrowForward } from "react-icons/io";
 import Products from "@/components/Products";
 import BlowHero from "@/components/ShopBlowHero";
 import "../css/contact.css"
